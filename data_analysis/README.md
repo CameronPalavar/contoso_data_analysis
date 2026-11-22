@@ -49,7 +49,6 @@ Using the data that was obtained from SQL queries, an excel dashboard was used t
 
 ![Dashboard preview](Customer_analysis_preview.png)
 
-[Full Dasboard](
 
 # Strategic Recommendations
 1. Protect the high-value LTV and build a system or path that allows mid-value customers to move up to the high-value segment.
